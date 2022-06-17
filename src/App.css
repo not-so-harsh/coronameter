@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(250, 250, 250);
+  overflow-x: hidden;
+}
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  margin: 10px 20px;
+}
+.pickeR{
+  margin: 20px;
+}
